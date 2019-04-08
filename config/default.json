@@ -1,0 +1,6 @@
+{
+  "SpaceEngineers": {
+    "baseUrl": "http://localhost:8080",
+    "prefix": "/vrageremote/v1"
+  }
+}
