@@ -1,15 +1,14 @@
 {
+  "name": "space-engineers",
+  "version": "1.0.1",
+  "author": "Brian Jemilo II<jemiloii@gmail.com>",
   "main": "index.js",
   "dependencies": {
-    "config": "^3.1.0",
+    "config": "3.1.0",
     "express": "4.16.4",
     "lodash.filter": "4.6.0",
     "request": "2.88.0",
-    "request-promise": "^4.2.4"
+    "request-promise": "4.2.4"
   },
-  "devDependencies": {
-    "mocha": "^6.0.2",
-    "rewire": "^4.0.1",
-    "sinon": "^7.3.1"
-  }
+  "license": "ISC"
 }
