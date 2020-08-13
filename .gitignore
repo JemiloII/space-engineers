@@ -2,3 +2,4 @@
 local*.json
 *.log
 node_modules
+/.idea/
