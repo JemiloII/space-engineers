@@ -1,6 +1,6 @@
 {
   "name": "space-engineers",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "A complete Node.js API for the Space Engineers Remote API.",
   "author": "Brian Jemilo II<jemiloii@gmail.com>",
   "main": "index.js",
@@ -12,5 +12,12 @@
     "request-promise": "4.2.4"
   },
   "license": "ISC",
-  "keywords": ["space", "engineers", "keen", "clang", "space engineers", "remote", "api"]
+  "keywords": [
+    "space engineers",
+    "remote api",
+    "space engineers remote api",
+    "keen",
+    "clang",
+    "keen software house"
+  ]
 }
