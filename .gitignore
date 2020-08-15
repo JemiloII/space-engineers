@@ -2,4 +2,5 @@
 local*.json
 *.log
 node_modules
-/.idea/
+.idea
+.npmrc

@@ -1,6 +1,6 @@
 {
   "name": "space-engineers",
-  "version": "1.0.3",
+  "version": "1.0.5",
   "description": "A complete Node.js API for the Space Engineers Remote API.",
   "author": "Brian Jemilo II<jemiloii@gmail.com>",
   "main": "index.js",
@@ -19,5 +19,6 @@
     "keen",
     "clang",
     "keen software house"
-  ]
+  ],
+  "publishConfig": { "registry": "https://npm.pkg.github.com/" }
 }
