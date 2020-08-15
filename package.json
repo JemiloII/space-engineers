@@ -19,6 +19,5 @@
     "keen",
     "clang",
     "keen software house"
-  ],
-  "publishConfig": { "registry": "https://npm.pkg.github.com/" }
+  ]
 }
