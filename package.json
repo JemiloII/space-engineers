@@ -1,6 +1,6 @@
 {
   "name": "space-engineers",
-  "version": "1.5.3",
+  "version": "1.5.4",
   "description": "A complete Node.js API for the Space Engineers Remote API.",
   "author": "Brian Jemilo II<jemiloii@gmail.com>",
   "main": "index.js",
@@ -9,8 +9,7 @@
     "config": "3.1.0",
     "express": "4.16.4",
     "json-bigint": "1.0.0",
-    "lodash.filter": "4.6.0",
-    "request-promise": "4.2.4"
+    "lodash.filter": "4.6.0"
   },
   "license": "ISC",
   "keywords": [
