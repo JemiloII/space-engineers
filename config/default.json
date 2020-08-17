@@ -2,6 +2,8 @@
   "SpaceEngineers": {
     "baseUrl": "http://localhost",
     "port": 8080,
-    "prefix": "/vrageremote"
+    "prefix": "/vrageremote",
+    "secret": "Don't Put Secret Here!",
+    "stringIDs": true
   }
 }
